@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/aalm_current/!svn/ver/4834/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display
+END
+LegacySaveBankInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/aalm_current/!svn/ver/3069/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display/LegacySaveBankInfo.php
+END
+LegacySaveGeneralInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/aalm_current/!svn/ver/3072/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display/LegacySaveGeneralInfo.php
+END
+LegacySaveWizard.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display/LegacySaveWizard.php
+END
+LegacySavePersonal.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display/LegacySavePersonal.php
+END
+LegacyApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/aalm_current/!svn/ver/4834/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/Display/LegacyApplication.php
+END

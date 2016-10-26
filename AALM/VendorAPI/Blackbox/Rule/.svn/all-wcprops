@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/VendorAPI/Blackbox/Rule
+END
+mls_basic_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/VendorAPI/Blackbox/Rule/mls_basic_rules.xml
+END
+DataxRecur.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/VendorAPI/Blackbox/Rule/DataxRecur.php
+END
+msp_basic_rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/VendorAPI/Blackbox/Rule/msp_basic_rules.xml
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/aalm/ecash3.0/ecash_aalm/code/AALM/VendorAPI/Blackbox/Rule/Factory.php
+END
